@@ -1,0 +1,1 @@
+// helps us to retrieve the blog posts from the folder
